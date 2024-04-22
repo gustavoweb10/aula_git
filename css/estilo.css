@@ -1,8 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     background-color: #8a2be2;
 }
-h1{
-    color: #fff;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-align: center;
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    height: 200px;
+    background: #000;
+    float: left;
+}
+#logo-header{
+    width: 150px;
+    height: 150px;
+    background: #ffffff;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+#logo-header img{
+    width: 100%;
+    height: auto;
 }
