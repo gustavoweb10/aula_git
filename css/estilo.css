@@ -40,6 +40,10 @@ section{
     margin-left: 25px;
     float: left;
 }
+#img-section:hover{
+    background: #8a2be2;
+    border-radius: 10px;
+}
 section h2{
     font-family: sans-serif;
     text-align: center;
