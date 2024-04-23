@@ -44,6 +44,10 @@ section{
     background: #8a2be2;
     border-radius: 10px;
 }
+#img-section img{
+    width: 100%;
+    height:auto;
+}
 section h2{
     font-family: sans-serif;
     text-align: center;
